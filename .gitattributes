@@ -1,0 +1,2 @@
+customer/dev/**/*.secret filter=git-crypt-ew-devops-dev diff=git-crypt-ew-devops-dev
+customer/qa/**/*.secret filter=git-crypt-ew-devops-qa diff=git-crypt-ew-devops-qa
